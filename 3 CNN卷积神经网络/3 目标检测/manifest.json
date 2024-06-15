@@ -1,0 +1,11 @@
+{
+    "version": "0.1",
+    "noteFileName": "note.md",
+    "imagesFolder": "images/",
+    "iconsFolder": "icons/",
+    "oriFileFullNameArr": [
+        "AI",
+        "CNN 卷积神经网络",
+        "目标检测"
+    ]
+}

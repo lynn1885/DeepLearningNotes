@@ -1,0 +1,11 @@
+{
+    "version": "0.1",
+    "noteFileName": "note.md",
+    "imagesFolder": "images/",
+    "iconsFolder": "icons/",
+    "oriFileFullNameArr": [
+        "AI",
+        "深度学习",
+        "基础概念"
+    ]
+}
